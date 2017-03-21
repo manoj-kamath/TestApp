@@ -10,7 +10,7 @@ namespace DemoApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello App is running now!");
+            Console.Write("Hello App is running now");
             Console.ReadKey();
         }
     }
